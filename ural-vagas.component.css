@@ -1,0 +1,10 @@
+.lista-vagas{
+    display:flex;
+    flex-direction: row;
+    background-color: blanchedalmond;
+    }
+    
+    .lista-vagas  .card{
+     margin: 4px 10px; 
+     min-height: 500px;
+    }
