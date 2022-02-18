@@ -1,4 +1,4 @@
-# curso-git
+# lh-angular
 repositório do curso de git
 
 2022!
